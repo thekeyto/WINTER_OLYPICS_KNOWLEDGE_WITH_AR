@@ -1,1 +1,2 @@
 # WINTER_OLYPICS_KNOWLEDGE_WITH_AR
+在unity中导入vuforia sdk，完成了一个基于ar的集换式玩法，并且适配到手机上
